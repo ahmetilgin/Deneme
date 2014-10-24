@@ -1,6 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+
+DENEME DENEME DÜZENLEME DÜZENLEME HOP HOP
 # Custom for Visual Studio
 *.cs     diff=csharp
 *.sln    merge=union
@@ -20,3 +22,10 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+
+
+
+
+
+DENEME DENEME DÜZENLEME DÜZENLEME HOP HOP
